@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "@calcom/babelbabvideo",
+  "version": "0.0.0",
+  "main": "./index.ts",
+  "description": "Babelbab is a better whatsapp. no signup, no login, no ads, no bullshit. just a simple way to chat with your friends and family.",
+  "dependencies": {
+    "@calcom/lib": "*"
+  },
+  "devDependencies": {
+    "@calcom/types": "*"
+  }
+}

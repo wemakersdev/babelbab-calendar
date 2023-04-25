@@ -5,6 +5,7 @@
 import amie_config_json from "./amie/config.json";
 import { metadata as applecalendar__metadata_ts } from "./applecalendar/_metadata";
 import around_config_json from "./around/config.json";
+import { metadata as babelbabvideo__metadata_ts } from "./babelbabvideo/_metadata";
 import { metadata as caldavcalendar__metadata_ts } from "./caldavcalendar/_metadata";
 import campfire_config_json from "./campfire/config.json";
 import closecom_config_json from "./closecom/config.json";
@@ -66,6 +67,7 @@ export const appStoreMetadata = {
   amie: amie_config_json,
   applecalendar: applecalendar__metadata_ts,
   around: around_config_json,
+  babelbabvideo: babelbabvideo__metadata_ts,
   caldavcalendar: caldavcalendar__metadata_ts,
   campfire: campfire_config_json,
   closecom: closecom_config_json,

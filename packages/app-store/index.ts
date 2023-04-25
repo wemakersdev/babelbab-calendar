@@ -9,6 +9,7 @@ const appStore = {
   hubspot: import("./hubspot"),
   huddle01video: import("./huddle01video"),
   jitsivideo: import("./jitsivideo"),
+  babelbabvideo: import("./babelbabvideo"),
   larkcalendar: import("./larkcalendar"),
   office365calendar: import("./office365calendar"),
   office365video: import("./office365video"),
