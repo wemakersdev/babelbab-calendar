@@ -255,7 +255,7 @@ export const userMetadata = z
     sessionTimeout: z.number().optional(), // Minutes
     defaultConferencingApp: z
       .object({
-        appSlug: z.string().default("daily-video").optional(),
+        appSlug: z.string().default("babelbabvideo").optional(),
         appLink: z.string().optional(),
       })
       .optional(),
