@@ -14,7 +14,7 @@ const BabelbabVideoApiAdapter = (): VideoApiAdapter => {
         type: "babelbab_video",
         id: meetingID,
         password: "",
-        url: "https://babelbab/calendar/" + meetingID,
+        url: "https://babelbab.com/calendar/" + meetingID,
       });
     },
     deleteMeeting: async (): Promise<void> => {
